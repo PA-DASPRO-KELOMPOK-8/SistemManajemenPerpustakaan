@@ -1,0 +1,28 @@
+{
+    "1": {
+        "title": "IPA KELAS 2",
+        "available": true,
+        "Peminjam": null,
+        "due_date": null
+    },
+    "2": {
+        "title": "IPS KELAS 4",
+        "available": true
+    },
+    "3": {
+        "title": "MATEMATIKA DISKRIT",
+        "available": true
+    },
+    "4": {
+        "title": "BIOLOGI KELAS 9",
+        "available": true
+    },
+    "5": {
+        "title": "SENI BUDAYA",
+        "available": true
+    },
+    "6": {
+        "title": "KIMIA",
+        "available": true
+    }
+}

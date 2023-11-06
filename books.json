@@ -1,0 +1,24 @@
+{
+    "1": {
+        "title": "Python Programming",
+        "available": true,
+        "Peminjam": null,
+        "due_date": null
+    },
+    "2": {
+        "title": "Java Programming",
+        "available": true
+    },
+    "3": {
+        "title": "C++ Programming",
+        "available": true
+    },
+    "4": {
+        "title": "PHP Programming",
+        "available": true
+    },
+    "5": {
+        "title": "Java Script Programming",
+        "available": true
+    }
+}

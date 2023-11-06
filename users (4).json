@@ -1,0 +1,79 @@
+{
+    "rofi": {
+        "password": "rofi",
+        "emoney": 600001,
+        "premium_access": false
+    },
+    "udin": {
+        "password": "udin",
+        "emoney": 120000
+    },
+    "rofii": {
+        "password": "rofi",
+        "emoney": 0
+    },
+    "haha": {
+        "password": "123",
+        "emoney": 0
+    },
+    "l": {
+        "username": "l",
+        "password": "l",
+        "emoney": 0
+    },
+    "mo": {
+        "username": "mo",
+        "password": "mo",
+        "emoney": 10000000
+    },
+    "ke": {
+        "username": "ke",
+        "password": "ke",
+        "emoney": 0
+    },
+    "wawa": {
+        "username": "wawa",
+        "password": "wawa",
+        "emoney": 0
+    },
+    "popo": {
+        "username": "popo",
+        "password": "popo",
+        "emoney": 0
+    },
+    "kiki": {
+        "username": "kiki",
+        "password": "kiki",
+        "emoney": 0
+    },
+    "wow": {
+        "username": "wow",
+        "password": "123",
+        "emoney": 0
+    },
+    "hihi": {
+        "username": "hihi",
+        "password": "hihi",
+        "emoney": 0
+    },
+    "rizy": {
+        "username": "rizy",
+        "password": "1",
+        "emoney": 0
+    },
+    "aku": {
+        "username": "aku",
+        "password": "aku",
+        "emoney": 0
+    },
+    "123": {
+        "username": "123",
+        "password": "22",
+        "emoney": 0
+    },
+    "12223": {
+        "username": "12223",
+        "password": "112",
+        "emoney": 0
+    }
+}
